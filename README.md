@@ -1,2 +1,6 @@
-# Linux-Studies
-I will keep updating this repo as my studies continue...
+## Version 1.0
+
+### Features
+- Added Shell Scripting Topics.
+- Added AWK Samples.
+
